@@ -112,9 +112,9 @@ You used the key to unlock the door.
 
 You are now in the NextRoom. You have won!
 
-![escaperoomgif](https://github.com/user-attachments/assets/d204be00-0a8a-449c-8803-763eb6991572)
-
 ```
+
+![escaperoomgif](https://github.com/user-attachments/assets/d204be00-0a8a-449c-8803-763eb6991572)
 
 ## License
 
