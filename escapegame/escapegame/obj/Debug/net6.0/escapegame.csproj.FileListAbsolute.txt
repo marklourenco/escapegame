@@ -1,0 +1,15 @@
+C:\Users\lcv2042513\Downloads\escapegame\escapegame\bin\Debug\net6.0\escapegame.exe
+C:\Users\lcv2042513\Downloads\escapegame\escapegame\bin\Debug\net6.0\escapegame.deps.json
+C:\Users\lcv2042513\Downloads\escapegame\escapegame\bin\Debug\net6.0\escapegame.runtimeconfig.json
+C:\Users\lcv2042513\Downloads\escapegame\escapegame\bin\Debug\net6.0\escapegame.dll
+C:\Users\lcv2042513\Downloads\escapegame\escapegame\bin\Debug\net6.0\escapegame.pdb
+C:\Users\lcv2042513\Downloads\escapegame\escapegame\obj\Debug\net6.0\escapegame.csproj.AssemblyReference.cache
+C:\Users\lcv2042513\Downloads\escapegame\escapegame\obj\Debug\net6.0\escapegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcv2042513\Downloads\escapegame\escapegame\obj\Debug\net6.0\escapegame.AssemblyInfoInputs.cache
+C:\Users\lcv2042513\Downloads\escapegame\escapegame\obj\Debug\net6.0\escapegame.AssemblyInfo.cs
+C:\Users\lcv2042513\Downloads\escapegame\escapegame\obj\Debug\net6.0\escapegame.csproj.CoreCompileInputs.cache
+C:\Users\lcv2042513\Downloads\escapegame\escapegame\obj\Debug\net6.0\escapegame.dll
+C:\Users\lcv2042513\Downloads\escapegame\escapegame\obj\Debug\net6.0\refint\escapegame.dll
+C:\Users\lcv2042513\Downloads\escapegame\escapegame\obj\Debug\net6.0\escapegame.pdb
+C:\Users\lcv2042513\Downloads\escapegame\escapegame\obj\Debug\net6.0\escapegame.genruntimeconfig.cache
+C:\Users\lcv2042513\Downloads\escapegame\escapegame\obj\Debug\net6.0\ref\escapegame.dll
