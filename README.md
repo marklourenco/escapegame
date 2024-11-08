@@ -1,7 +1,3 @@
-Here is a `README.md` file for your Text-Based Adventure Game project:
-
----
-
 # Text-Based Adventure Game
 
 This is a simple console-based text adventure game written in C#. The player navigates through different locations, interacts with items, solves puzzles, and progresses through the game world. The game also supports saving and loading progress.
