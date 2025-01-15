@@ -50,7 +50,7 @@ Here are the primary commands you can use in the game:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/text-based-adventure-game.git
+   git clone https://github.com/marklourenco/text-based-adventure-game.git
    ```
 
 2. Open the project in your preferred C# IDE (e.g., Visual Studio, Visual Studio Code).
